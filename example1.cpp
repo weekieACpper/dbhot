@@ -1,6 +1,8 @@
 #include<iostream>
 #include<vector>
 #include<string>
+#include<algorithm>
+using std::sort;
 using std::string;
 using std::vector;
 using namespace std;
