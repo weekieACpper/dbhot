@@ -3,11 +3,14 @@
 #include<string>
 #include<algorithm>
 using std::sort;
+#include<unordered_map>
 using std::string;
 using std::vector;
+using std::unordered_map; 
 using namespace std;
 int main(int argc, char**argv)
 {
+    unordered_map<int,int> HashTable;
     string filename="testfile";
     cout<<filename<<endl;
     cout<<"hello world!"<<endl;
