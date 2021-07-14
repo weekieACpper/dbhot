@@ -13,7 +13,7 @@ int main(int argc, char**argv)
     unordered_map<int,int> HashTable;
     string filename="testfile";
     cout<<filename<<endl;
-    cout<<"hello world!"<<endl;
+    cout<<"hello github!"<<endl;
     vector<int> Array{1,2,3,4};
     for(auto i:Array)
     {
